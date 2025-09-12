@@ -1,0 +1,2 @@
+# EHC-Resources
+EHC is the Ethical Hacking Club at Auburn University. The plan is to use this is a starting point and be a hub of resources from beginner-level to advanced-level
