@@ -8,6 +8,7 @@ EHC is the Ethical Hacking Club at Auburn University. The plan is to use this as
 
 ### Contents
 - [Digital Forensics](#digital-forensics)
+- [Open-Source Intelligence (OSINT)](#osint)
 
 # Digital Forensics
 What is Digital Forensics?
@@ -31,3 +32,10 @@ Network Forensics
 
 
 [def]: #digital-forensics
+
+# OSINT
+What is OSINT?
+- OSINT, or Open-Source Intelligence, is the process of collecting and analyzing publicly available data to produce actionable intelligence.
+- Some forms of OSINT you may already be aware of is the data linked to your google account and social media sites, but truly there is a lot more than just your name, age, and email that you can find about yourself online.
+
+[def]: #osint
