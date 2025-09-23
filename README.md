@@ -36,6 +36,6 @@ Network Forensics
 # OSINT
 What is OSINT?
 - OSINT, or Open-Source Intelligence, is the process of collecting and analyzing publicly available data to produce actionable intelligence.
-- Some forms of OSINT you may already be aware of is the data linked to your google account and social media sites, but truly there is a lot more than just your name, age, and email that you can find about yourself online.
+- Some forms of OSINT you may already be aware of is the data linked to your google account and social media sites, but this is just the tip of the iceburg in terms of public data.
 
 [def]: #osint
