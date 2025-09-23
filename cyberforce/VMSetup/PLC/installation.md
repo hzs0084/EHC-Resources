@@ -7,7 +7,7 @@ This guide explains how to set up the PLC VM from scratch in Proxmox and configu
 ## 1. Create the VM in Proxmox
 
 2. **Upload Ubuntu ISO (if not already uploaded)**
-   - Select desired storage for iso
+   - Choose desired storage for iso
    - Select `Download from URL.`
    - Paste `https://releases.ubuntu.com/jammy/ubuntu-22.04.5-live-server-amd64.iso` into the URL slot
    - Press `Download`
@@ -54,9 +54,9 @@ This guide explains how to set up the PLC VM from scratch in Proxmox and configu
    - Select the network interface (`ens18`)
    - Set to **Manual**
    - Configure:
-     - Address: `192.168.1.210/24`
-     - Gateway: `192.168.1.1`
-     - DNS: `192.168.1.1` (or `8.8.8.8`)
+     - Address: `10.0.123.15/24`
+     - Gateway: `10.0.123.1`
+     - DNS: `10.0.1.1` (or `8.8.8.8`)
 
 4. **Storage**
    - Select entire disk (guided install)
