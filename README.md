@@ -38,4 +38,16 @@ What is OSINT?
 - OSINT, or Open-Source Intelligence, is the process of collecting and analyzing publicly available data to produce actionable intelligence.
 - Some forms of OSINT you may already be aware of is the data linked to your google account and social media sites, but this is just the tip of the iceburg in terms of public data.
 
+How important is it to protect my data?
+- There's a litenany of reasons you should protect your data from public viewing.
+- Allowing random people on the internet access to your personal information makes you a target for identity theft, cyberstalking, online scams, and more.
+- 
+
+How do I protect my data?
+
+Tools:
+- [WhatsMyName Web](https://whatsmyname.app/) is an incredible way to find someone if you know their username or have their username from a platform.
+- [OSINT Framework](https://osintframework.com/) helps you visualize the OSINT process and how to build a profile on someone.
+- [Sourcing Games](https://sourcing.games/) is a great site for practicing OSINT skills with CTF-esc challenges and puzzles.
+
 [def]: #osint
