@@ -49,11 +49,14 @@ How do I protect my data?
 - Anti-malware software such as [Malwarebytes](https://www.malwarebytes.com/) (which is free) protects you from threats lurking in emails, texts and other messsaging formats.
 - Password managers such as [Bitwarden](https://bitwarden.com/) can be used to vault your passwords, ensuring you and only you have access to that information.
 - Ad blockers such as [uBlock Origin](https://ublockorigin.com/) (make sure it is uBlock Origin and not the defunct uBlock) protect you from malicious sites and advertisements.
+- [AbuseIPDB](https://www.abuseipdb.com/) is a project dedicated to helping combat the spread of hackers, spammers, and abusive activity on the internet. You can report an IP address associated with malicious activity, or check to see if an IP address has been reported.
 - You can also attempt to manually opt-out of data brockerage sites, as described in the [article](https://www.aura.com/learn/how-to-remove-yourself-from-data-broker-sites) from the previus section.
 
 Tools:
 - [WhatsMyName Web](https://whatsmyname.app/) is an incredible way to find someone if you know their username or have their username from a platform.
 - [OSINT Framework](https://osintframework.com/) helps you visualize the OSINT process and how to build a profile on someone.
 - [Sourcing Games](https://sourcing.games/) is a great site for practicing OSINT skills with CTF-esc challenges and puzzles.
+- [Censys](https://search.censys.io/) allows you to view the IP, ports, and services that are open for a given website; also allows you to see the vulnerabilities of that website.
+- [OSINT4ALL](https://start.me/p/L1rEYQ/osint4all) is a free, easy to use toolkit for OSINT.
 
 [def]: #osint
