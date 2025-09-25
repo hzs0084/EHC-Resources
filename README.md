@@ -45,7 +45,7 @@ How important is it to protect my data?
 
 How do I protect my data?
 - Fortunately, there are many resources available to someone who wants to protect their privacy online.
-- VPNs such as NordVPN, Surfshark, or (the free option) Proton VPN encrypt your data and mask your IP address from potential bad actors.
+- VPNs such as NordVPN, Surfshark, or (the free option) [Proton VPN](https://protonvpn.com/) encrypt your data and mask your IP address from potential bad actors.
 - Anti-malware software such as [Malwarebytes](https://www.malwarebytes.com/) (which is free) protects you from threats lurking in emails, texts and other messsaging formats.
 - Password managers such as [Bitwarden](https://bitwarden.com/) can be used to vault your passwords, ensuring you and only you have access to that information.
 - Ad blockers such as [uBlock Origin](https://ublockorigin.com/) (make sure it is uBlock Origin and not the defunct uBlock) protect you from malicious sites and advertisements.
