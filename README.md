@@ -9,5 +9,5 @@ EHC is the Ethical Hacking Club at Auburn University. The plan is to use this as
 ### Contents
 - [Digital Forensics](Forensics/Forensics.md)
 - [Open-Source Intelligence (OSINT)](General-Skills/General-Skills.md)
-- [Cryptography](Cryptograaphy/Cryptography.md)
+- [Cryptography](Cryptography/Cryptography.md)
 
