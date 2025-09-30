@@ -8,6 +8,7 @@
     2. Integrity: Encrypted data cannot be modified before it is recieved by the intended party(s) without alterations being detected.
     3. Non-Repudiation: The sender of the encrypted data cannot deny they sent it.
     4. Authentication: The party being sent the encrypted data is who they say they are.
+- This [section](https://www.ibm.com/think/topics/cryptography) of the IBM website is a great resource for learning more about Cryptography and is what I used as a framework for this section of the Github.
 
  ### Applications of Cryptography
  - Anything you do online that involves an exchange of sensitive information should involve some sort of Cryptography.
