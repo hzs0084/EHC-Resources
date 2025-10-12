@@ -4,10 +4,6 @@
 
 The dependency file contains anomalous entries, these entries seem to be generating power when the windmill should not be able too. Find these entries and add the total electricity_produced between the anomalous entries to get the flag. It will be a float value.
 
-**NIST Category:** Investigation - Conducts national cybersecurity and cybercrime investigations, including the collection, management, and analysis of digital evidence.
-
-**Correctly answered:** 582.56*
-
 ---
 
 ## Solution
