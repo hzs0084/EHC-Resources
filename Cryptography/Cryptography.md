@@ -28,7 +28,7 @@
     - Triple DES (3DES): Applies the DES algorithm three times with three keys; more suited for hardware; largely replaced         by the far safer AES.
     - Twofish: Successor of Blowfish; Uses block ciphering with a single key of 256 bits.
     - Blowfish: Best permutation technique for sipher-related encryption.
-    - 
+
 ### Asymmetric (Public Key)
 - Uses a mathematically linked key pair: a public key for encryption and a private key for decryption.
 - The private key cannot be derived from the public key, making it highly secure.
