@@ -6,7 +6,7 @@
 ### How important is it to protect my data?
 - There's a litenany of reasons you should protect your data from public viewing.
 - Allowing random people on the internet access to your personal information makes you a target for identity theft, cyberstalking, online scams, and more.
-- If you are having trouble understanding how your personal data can lead to victimization, this article on [data brokers](https://www.aura.com/learn/how-to-remove-yourself-from-data-broker-sites) shows wwhat these adversaries can do with your data.
+- If you are having trouble understanding how your personal data can lead to victimization, this article on [data brokers](https://www.aura.com/learn/how-to-remove-yourself-from-data-broker-sites) shows what these adversaries can do with your data.
 
 ### How do I protect my data?
 - Fortunately, there are many resources available to someone who wants to protect their privacy online.
